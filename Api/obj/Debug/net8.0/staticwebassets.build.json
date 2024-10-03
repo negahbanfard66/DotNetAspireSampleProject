@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "1GORCYi6xIbopn+78N2GexTLnVsX6JpJn5a3NLxJPUM=",
+  "Source": "Api",
+  "BasePath": "_content/Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api\\wwwroot",
+      "Source": "Api",
+      "ContentRoot": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\Api\\wwwroot\\zones.json",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "zones.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\zones.json"
+    }
+  ]
+}

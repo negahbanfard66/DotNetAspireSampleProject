@@ -1,0 +1,51 @@
+[
+  {
+    "ContainingType": "Microsoft.Extensions.DependencyInjection.NwsManagerExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapApiEndpoints\u003Eb__1_2",
+    "RelativePath": "forecast/{zoneId}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "zoneId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Api.Forecast[]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ],
+    "EndpointName": "GetForecastByZone"
+  },
+  {
+    "ContainingType": "Microsoft.Extensions.DependencyInjection.NwsManagerExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapApiEndpoints\u003Eb__1_0",
+    "RelativePath": "zones",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Api.Zone[]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetZones"
+  }
+]
