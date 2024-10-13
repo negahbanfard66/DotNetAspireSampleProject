@@ -6,6 +6,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddNwsManager();
 builder.AddServiceDefaults();
+builder.AddRedisOutputCache("outputcache");
 
 var app = builder.Build();
 

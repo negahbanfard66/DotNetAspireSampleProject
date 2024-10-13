@@ -147,3 +147,4 @@ D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Projec
 D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\MyWeatherHub\obj\Debug\net8.0\MyWeatherHub.pdb
 D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\MyWeatherHub\obj\Debug\net8.0\MyWeatherHub.genruntimeconfig.cache
 D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\MyWeatherHub\obj\Debug\net8.0\ref\MyWeatherHub.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\MyWeatherHub\obj\Debug\net8.0\MyWeatherHub.sourcelink.json

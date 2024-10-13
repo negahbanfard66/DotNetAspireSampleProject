@@ -103,3 +103,9 @@ D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Projec
 D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\AppHost\obj\Debug\net8.0\AppHost.pdb
 D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\AppHost\obj\Debug\net8.0\AppHost.genruntimeconfig.cache
 D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\AppHost\obj\Debug\net8.0\ref\AppHost.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\AppHost\obj\Debug\net8.0\AppHost.sourcelink.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\AppHost\bin\Debug\net8.0\Aspire.Hosting.Redis.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\AppHost\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\AppHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\AppHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\AppHost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

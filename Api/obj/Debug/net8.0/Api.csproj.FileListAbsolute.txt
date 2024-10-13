@@ -137,3 +137,12 @@ D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Projec
 D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\obj\Debug\net8.0\Api.pdb
 D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\obj\Debug\net8.0\ref\Api.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\bin\Debug\net8.0\Aspire.StackExchange.Redis.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\bin\Debug\net8.0\Aspire.StackExchange.Redis.OutputCaching.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\bin\Debug\net8.0\HealthChecks.Redis.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\bin\Debug\net8.0\Microsoft.AspNetCore.OutputCaching.StackExchangeRedis.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\DotNetAspireGuidStepByStep\Project\Api\obj\Debug\net8.0\Api.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyWeatherHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae3bf2076c32fe7091870d71aca000be8d8f22a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyWeatherHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyWeatherHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

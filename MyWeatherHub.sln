@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWeatherHub", "MyWeatherHu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{170DC774-255B-4A7E-835F-B4686A5A21AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDefaults", "ServiceDefaults\ServiceDefaults.csproj", "{BF32EAB4-C6EE-4052-8965-3388F6E0201C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceDefaults", "ServiceDefaults\ServiceDefaults.csproj", "{BF32EAB4-C6EE-4052-8965-3388F6E0201C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHost", "AppHost\AppHost.csproj", "{90E00471-5BAD-4C1C-9377-2C7111489977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppHost", "AppHost\AppHost.csproj", "{90E00471-5BAD-4C1C-9377-2C7111489977}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

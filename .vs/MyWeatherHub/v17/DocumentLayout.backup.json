@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90E00471-5BAD-4C1C-9377-2C7111489977}|AppHost\\AppHost.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dotnetaspireguidstepbystep\\project\\apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E00471-5BAD-4C1C-9377-2C7111489977}|AppHost\\AppHost.csproj|solutionrelative:apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170DC774-255B-4A7E-835F-B4686A5A21AE}|Api\\Api.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dotnetaspireguidstepbystep\\project\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170DC774-255B-4A7E-835F-B4686A5A21AE}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170DC774-255B-4A7E-835F-B4686A5A21AE}|Api\\Api.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dotnetaspireguidstepbystep\\project\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{170DC774-255B-4A7E-835F-B4686A5A21AE}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170DC774-255B-4A7E-835F-B4686A5A21AE}|Api\\Api.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dotnetaspireguidstepbystep\\project\\api\\data\\nwsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170DC774-255B-4A7E-835F-B4686A5A21AE}|Api\\Api.csproj|solutionrelative:api\\data\\nwsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E00471-5BAD-4C1C-9377-2C7111489977}|AppHost\\AppHost.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dotnetaspireguidstepbystep\\project\\apphost\\apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90E00471-5BAD-4C1C-9377-2C7111489977}|AppHost\\AppHost.csproj|solutionrelative:apphost\\apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1788528-8C43-4239-A42E-FA4491800AE2}|MyWeatherHub\\MyWeatherHub.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dotnetaspireguidstepbystep\\project\\myweatherhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1788528-8C43-4239-A42E-FA4491800AE2}|MyWeatherHub\\MyWeatherHub.csproj|solutionrelative:myweatherhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1788528-8C43-4239-A42E-FA4491800AE2}|MyWeatherHub\\MyWeatherHub.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dotnetaspireguidstepbystep\\project\\myweatherhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1788528-8C43-4239-A42E-FA4491800AE2}|MyWeatherHub\\MyWeatherHub.csproj|solutionrelative:myweatherhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1788528-8C43-4239-A42E-FA4491800AE2}|MyWeatherHub\\MyWeatherHub.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dotnetaspireguidstepbystep\\project\\myweatherhub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1788528-8C43-4239-A42E-FA4491800AE2}|MyWeatherHub\\MyWeatherHub.csproj|solutionrelative:myweatherhub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90E00471-5BAD-4C1C-9377-2C7111489977}|AppHost\\AppHost.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\dotnetaspireguidstepbystep\\project\\apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{90E00471-5BAD-4C1C-9377-2C7111489977}|AppHost\\AppHost.csproj|solutionrelative:apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -14,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +70,105 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T19:25:15.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppHost.csproj",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\AppHost\\AppHost.csproj",
+              "RelativeDocumentMoniker": "AppHost\\AppHost.csproj",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\AppHost\\AppHost.csproj",
+              "RelativeToolTip": "AppHost\\AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T19:20:54.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:18:45.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NwsManager.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\Api\\Data\\NwsManager.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\NwsManager.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\Api\\Data\\NwsManager.cs",
+              "RelativeToolTip": "Api\\Data\\NwsManager.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAEwHUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:13:37.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\MyWeatherHub\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWeatherHub\\appsettings.json",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\MyWeatherHub\\appsettings.json",
+              "RelativeToolTip": "MyWeatherHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T19:16:58.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\MyWeatherHub\\Program.cs",
+              "RelativeDocumentMoniker": "MyWeatherHub\\Program.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\MyWeatherHub\\Program.cs",
+              "RelativeToolTip": "MyWeatherHub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:16:51.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\MyWeatherHub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyWeatherHub\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\MyWeatherHub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyWeatherHub\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T19:16:34.721Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "AppHost\\Program.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\AppHost\\Program.cs",
+              "RelativeToolTip": "AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:53:53.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\DotNetAspireGuidStepByStep\\Project\\AppHost\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AppHost\\Properties\\launchSettings.json",
@@ -46,8 +176,7 @@
               "RelativeToolTip": "AppHost\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-03T19:57:17.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T19:57:17.779Z"
             }
           ]
         }
